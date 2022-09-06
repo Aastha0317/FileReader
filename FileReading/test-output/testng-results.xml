@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54537" started-at="2022-09-06T16:29:10Z" finished-at="2022-09-06T16:30:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54537" started-at="2022-09-06T16:29:10Z" finished-at="2022-09-06T16:30:05Z">
+      <class name="FileReading.FileReading.TestFileReading">
+        <test-method status="PASS" signature="testExcel(java.lang.String)[pri:0, instance:FileReading.FileReading.TestFileReading@6cf3ea]" name="testExcel" duration-ms="51739" started-at="2022-09-06T16:29:11Z" data-provider="MandateEmail" finished-at="2022-09-06T16:30:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple - a fruit, a tech film]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExcel -->
+        <test-method status="PASS" signature="testExcel(java.lang.String)[pri:0, instance:FileReading.FileReading.TestFileReading@6cf3ea]" name="testExcel" duration-ms="1607" started-at="2022-09-06T16:30:02Z" data-provider="MandateEmail" finished-at="2022-09-06T16:30:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Table - an object, contains rows and column and used incontext of computers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExcel -->
+        <test-method status="PASS" signature="testExcel(java.lang.String)[pri:0, instance:FileReading.FileReading.TestFileReading@6cf3ea]" name="testExcel" duration-ms="718" started-at="2022-09-06T16:30:04Z" data-provider="MandateEmail" finished-at="2022-09-06T16:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Orange - a fruit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExcel -->
+      </class> <!-- FileReading.FileReading.TestFileReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
